@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Hamburger_(black_bg).jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\Hamburger_(black_bg).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>780</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>71</ymin>
+			<xmax>1109</xmax>
+			<ymax>681</ymax>
+		</bndbox>
+	</object>
+</annotation>

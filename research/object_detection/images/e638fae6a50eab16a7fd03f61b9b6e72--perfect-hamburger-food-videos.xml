@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>e638fae6a50eab16a7fd03f61b9b6e72--perfect-hamburger-food-videos.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\e638fae6a50eab16a7fd03f61b9b6e72--perfect-hamburger-food-videos.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>552</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>51</ymin>
+			<xmax>569</xmax>
+			<ymax>522</ymax>
+		</bndbox>
+	</object>
+</annotation>

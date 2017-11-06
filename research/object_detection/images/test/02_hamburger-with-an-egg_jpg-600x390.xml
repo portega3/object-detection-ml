@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>02_hamburger-with-an-egg_jpg-600x390.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\02_hamburger-with-an-egg_jpg-600x390.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>61</ymin>
+			<xmax>532</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

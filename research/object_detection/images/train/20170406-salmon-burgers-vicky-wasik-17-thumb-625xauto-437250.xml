@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20170406-salmon-burgers-vicky-wasik-17-thumb-625xauto-437250.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\20170406-salmon-burgers-vicky-wasik-17-thumb-625xauto-437250.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>49</ymin>
+			<xmax>483</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>15</ymin>
+			<xmax>625</xmax>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

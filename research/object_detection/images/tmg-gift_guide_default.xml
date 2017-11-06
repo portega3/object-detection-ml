@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>tmg-gift_guide_default.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\tmg-gift_guide_default.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>970</width>
+		<height>700</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>81</ymin>
+			<xmax>798</xmax>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>

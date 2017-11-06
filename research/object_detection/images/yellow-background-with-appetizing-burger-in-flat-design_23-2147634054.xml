@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>yellow-background-with-appetizing-burger-in-flat-design_23-2147634054.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\yellow-background-with-appetizing-burger-in-flat-design_23-2147634054.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>626</width>
+		<height>626</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>159</ymin>
+			<xmax>469</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

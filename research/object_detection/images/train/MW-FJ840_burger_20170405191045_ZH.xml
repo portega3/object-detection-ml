@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>MW-FJ840_burger_20170405191045_ZH.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\MW-FJ840_burger_20170405191045_ZH.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>29</ymin>
+			<xmax>761</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20110622-last-burger-kenji-pie-n-burger.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\20110622-last-burger-kenji-pie-n-burger.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>610</width>
+		<height>458</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>111</ymin>
+			<xmax>404</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

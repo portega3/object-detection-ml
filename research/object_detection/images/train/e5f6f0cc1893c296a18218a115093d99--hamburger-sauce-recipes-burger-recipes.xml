@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>e5f6f0cc1893c296a18218a115093d99--hamburger-sauce-recipes-burger-recipes.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\e5f6f0cc1893c296a18218a115093d99--hamburger-sauce-recipes-burger-recipes.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>73</ymin>
+			<xmax>600</xmax>
+			<ymax>807</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kfd-howtohamburger-Burgers_5_0391-1024x621.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\kfd-howtohamburger-Burgers_5_0391-1024x621.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>621</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>24</ymin>
+			<xmax>810</xmax>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

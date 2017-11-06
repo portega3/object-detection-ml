@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20170617-bulgogi-burger-matt-clifton-4-thumb-625xauto-438108.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\20170617-bulgogi-burger-matt-clifton-4-thumb-625xauto-438108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>171</ymin>
+			<xmax>439</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>155</ymin>
+			<xmax>274</xmax>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+</annotation>

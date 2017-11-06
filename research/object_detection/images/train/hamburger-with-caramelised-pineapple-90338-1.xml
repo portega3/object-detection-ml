@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>hamburger-with-caramelised-pineapple-90338-1.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\hamburger-with-caramelised-pineapple-90338-1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>178</ymin>
+			<xmax>2841</xmax>
+			<ymax>2000</ymax>
+		</bndbox>
+	</object>
+</annotation>

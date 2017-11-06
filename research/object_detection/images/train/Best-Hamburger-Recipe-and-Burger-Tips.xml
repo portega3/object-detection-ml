@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Best-Hamburger-Recipe-and-Burger-Tips.jpg</filename>
+	<path>C:\Users\PXO0861\OneDrive - The Home Depot\Desktop\images\Best-Hamburger-Recipe-and-Burger-Tips.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>825</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>335</ymin>
+			<xmax>259</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hamburger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>328</ymin>
+			<xmax>542</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>
